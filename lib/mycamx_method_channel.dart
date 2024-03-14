@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import "dart:typed_data";
+
 import 'mycamx_platform_interface.dart';
 
 /// An implementation of [MycamxPlatform] that uses method channels.

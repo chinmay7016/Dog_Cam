@@ -1,5 +1,4 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import "dart:typed_data";
 
 import 'mycamx_method_channel.dart';
 

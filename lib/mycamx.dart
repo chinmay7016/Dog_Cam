@@ -1,4 +1,4 @@
-import "dart:typed_data";
+
 import 'mycamx_platform_interface.dart';
 
 class Mycamx {
