@@ -1,5 +1,20 @@
-# mycamx
 
-A plugin and an app called Dog Camera 2.
-A prototype for testing object detection and image classification with Flutter, CameraX and MediaPipe.
-Read about it in a story on Medium.com called "Flutter, CameraX and MediaPipe".
+# Project Title
+
+A brief description of what this project does and who it's for
+
+detects dogs
+## Installation
+
+clone it first
+```bash
+  flutter pub get
+  cd example
+  flutter run
+```
+    
+## Demo
+
+
+https://github.com/chinmay7016/Dog_Cam/assets/75988613/ddb678ec-ede9-4f27-a45a-0446fda74b27
+
