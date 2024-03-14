@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
       scaffoldMessengerKey: _messangerKey,
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: const Text('Dog Camera 2')),
+          title: Center(child: const Text('Dog Camera')),
         ),
         body: OverflowBox(
           maxWidth: double.infinity,
